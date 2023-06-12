@@ -17,7 +17,7 @@
  * Plugin URI:        https://github.com/thechetanvaghela/auto-update-image-attributes-from-filename
  * Description:       Automatically add/update Image attributes(Image Title, Alt Text, Image Caption) from Image Filename.
  * Version:           1.0.0
- * Requires at least: 6.0.2
+ * Requires at least: 6.2.2
  * Requires PHP:      7.2
  * Author:            Chetan Vaghela
  * Author URI:        https://github.com/thechetanvaghela
